@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolalenee
-- 👀 I’m interested in full stack development technologies.
+- 👀 I'm a full stack developer gaining expertise in the MERN stack! 
 - 📫 Email: marblenicola@gmail.com
 - 📝 I am currently enrolled in a Full Stack development course at Butler University.
 
