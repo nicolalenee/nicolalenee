@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicolalenee
+- 👋 Hey there! My name's Nicola
 - 🤓 I'm a full stack developer with expertise in the MERN stack
 - 📝 I have recently graduated from a full stack bootcamp at Butler University
 - 👀 I am currently looking for work as a full stack developer
