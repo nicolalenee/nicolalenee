@@ -2,7 +2,7 @@
 - 🤓 I'm a full stack developer with expertise in the MERN stack
 - 📝 I have recently graduated from a full stack bootcamp at Butler University
 - 👀 I am currently looking for work as a full stack developer
-- 🌐 View my <a href="https://nicolalenee.github.io/folio/"> portfolio </a>
+- 🌐 View my <a href="https://nicola-mu.vercel.app/"> portfolio </a>
 - 📧 Send me an email <a href ="mailto: marblenicola@gmail.com">marblenicola@gmail.com</a>
 - 🔗 View my <a href="http://https://www.linkedin.com/in/nicolamarble/">LinkedIn</a> profile
 <!---
