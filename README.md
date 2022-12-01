@@ -1,3 +1,7 @@
+[
+![github](https://user-images.githubusercontent.com/86696492/205133081-cb5c8cb4-4922-4ce4-9e6a-9ca3e1c499ad.png)
+](url)
+
 - 👋 Hey there! My name's Nicola
 - 🤓 I'm a full stack developer with expertise in the MERN stack
 - 📝 I have recently graduated from a full stack bootcamp at Butler University
