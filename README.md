@@ -7,6 +7,8 @@
 
 ⭐️ One day, I was experimenting with the <a style="color: #FE9CD0; font-weight: bold;" href="https://notion-enhancer.github.io/">Notion Enhancer</a> extension and dove into the CSS files. Calling on some old knowledge from creating themes on tumblr, I spent the entire day tweaking and testing my changes. I was thrilled and in that same day I enrolled in Codecademy courses and begin learning the basics. A few months later I enrolled in a Bootcamp at Butler University and passed the course with flying colors. I'm currently looking for work to start my new career and employ my unique background.
 
+# The Good Stuff
+
 **Proven Skills**
 - HTML
 - CSS
@@ -30,7 +32,7 @@
 - C#
 - TypeScript
 
-## The Good Stuff
+## Contact
 
   <a href="https://linkedin/in/nicolamarble">LinkedIn</a> | <a href="https://nicola-mu.vercel.app">Portfolio</a> | <a href="mailto:marblenicola@gmail.com">Email</a>
 
