@@ -8,29 +8,7 @@
 ⭐️ One day, I was experimenting with the <a style="color: #FE9CD0; font-weight: bold;" href="https://notion-enhancer.github.io/">Notion Enhancer</a> extension and dove into the CSS files. Calling on some old knowledge from creating themes on tumblr, I spent the entire day tweaking and testing my changes. I was thrilled and in that same day I enrolled in Codecademy courses and begin learning the basics. A few months later I enrolled in a Bootcamp at Butler University and passed the course with flying colors. I'm currently looking for work to start my new career and employ my unique background.
 
 # The Good Stuff
-
-**Proven Skills**
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express
-- React
-- SQL
-- MongoDB
-- NoSQL
--  REST API
--  GraphQL
--  jQuery
--  Handlebars
--  Object-oriented programming
--  Test-driven development(Jest)  
-  
-**Familiar Skills**
-- Python & Flask
-- Java & Spring Boot
-- C#
-- TypeScript
+![github-tools](https://user-images.githubusercontent.com/86696492/205150362-bf64dbd4-1514-49ee-886c-0857767c1db2.png)
 
 ## Contact
 
