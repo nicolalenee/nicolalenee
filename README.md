@@ -2,7 +2,7 @@
 ![github](https://user-images.githubusercontent.com/86696492/205133081-cb5c8cb4-4922-4ce4-9e6a-9ca3e1c499ad.png)
 ](url)
 <div style="border: 1px solid #FE9CD0; padding: 15px;">
-👋 Hey there! My name's Nicola! I am a full stack developer who works in the MERN stack. I have a passion for imagining things I would like to build and making those ideas come to life. I love to learn new things and growing that knowledge over time. When I got the urge to learn how to code, I immediately knew that I had stumbled upon something that would change the way I viewed my career aspirations forever.
+<p>👋 Hey there! My name's Nicola! I am a full stack developer who works in the MERN stack. I have a passion for imagining things I would like to build and making those ideas come to life. I love to learn new things and growing that knowledge over time. When I got the urge to learn how to code, I immediately knew that I had stumbled upon something that would change the way I viewed my career aspirations forever.</p>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 20px; align-items: center">
 <div style="margin-right: 15px;">
