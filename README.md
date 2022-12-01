@@ -14,8 +14,8 @@
 
 ⭐️ One day, I was experimenting with the <a style="color: #FE9CD0; font-weight: bold;" href="https://notion-enhancer.github.io/">Notion Enhancer</a> extension and dove into the CSS files. Calling on some old knowledge from creating themes on tumblr, I spent the entire day tweaking and testing my changes. I was thrilled and in that same day I enrolled in Codecademy courses and begin learning the basics. A few months later I enrolled in a Bootcamp at Butler University and passed the course with flying colors! I'm currently looking for work to start my new career and employ my unique background.
 
-## Contact
-If you're looking for fresh talent or would simply like to connect, don't hesitate to reach out to me! I love hearing from people and sharing experiences.
+## Contact  
+If you're looking for fresh talent or would simply like to connect, don't hesitate to reach out to me! I love hearing from people and sharing experiences.  
   <a href="https://linkedin/in/nicolamarble">LinkedIn</a> | <a href="https://nicola-mu.vercel.app">Portfolio</a> | <a href="mailto:marblenicola@gmail.com">Email</a>
 
 <!---
