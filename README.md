@@ -3,7 +3,7 @@
 ](url)
 👋 Hey there! My name's Nicola! I am a full stack developer who works in the MERN stack. I have a passion for imagining things I would like to build and making those ideas come to life. I love to learn new things and growing that knowledge over time. When I got the urge to learn how to code, I immediately knew that I had stumbled upon something that would change the way I viewed my career aspirations forever. I'm enthusiastic about my upcoming opportunities to evolve as a developer!
 
-**What I Do**
+**What I Do**   
 ⌨️ I have successful built several (Kirby-less) applications that utilize industry standards for code organization, web design, and optimization. When developing applications, I use a human-first approach -- this allows for me to structure and scale data efficiently based on predictable user needs. I have maximized the capabilities of tools such as MongoDB, React, Node.js, and Express to serve data and modularized front-end components to create an enriching user experience. I possess a strong appetite for learning and solving complex problems, therefore I'm looking to join a diverse team of motivated individuals who I can learn from and also share my unique perspective with. 
 
 # The Good Stuff (Skills)
