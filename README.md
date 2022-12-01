@@ -6,7 +6,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 20px; align-items: center">
 <div align="left" style="margin-right: 15px;">
-<img src="https://static.wikia.nocookie.net/kirby/images/5/57/KSSU_Kirby_guard.png/revision/latest?cb=20180501175640&path-prefix=en"/>
+<img width="250px" src="https://static.wikia.nocookie.net/kirby/images/5/57/KSSU_Kirby_guard.png/revision/latest?cb=20180501175640&path-prefix=en"/>
 </div>
 <div align="right">
 <h2 style="font-weight: bold; color: #FE9CD0;">So... how exactly did I end up here?</h2>
