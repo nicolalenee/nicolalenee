@@ -16,7 +16,7 @@
 
 ## Contact  
 If you're looking for fresh talent or would simply like to connect, don't hesitate to reach out to me! I love hearing from people and sharing experiences.  
-  <a href="https://linkedin/in/nicolamarble">LinkedIn</a> | <a href="https://nicola-mu.vercel.app">Portfolio</a> | <a href="mailto:marblenicola@gmail.com">Email</a>
+  <a href="https://linkedin/in/nicolamarble">LinkedIn</a> | <a href="https://nicola-mu.vercel.app">Portfolio</a> |
 
 <!---
 nicolalenee/nicolalenee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
