@@ -4,15 +4,17 @@
 
 Hi! My name's Nicola and I'm a data analyst. I do have web development training background and often find myself merging these two strengths together in my work. 
 
-**Current Project**: I'm currently working on [City of Virginia Beach EMS Public Data Analysis](https://github.com/nicolalenee/ems_cvb). I currently work in public service and I'm currently strengthening my data cleaning and timestamp work.
+## Quick Glimpse 
+
+**Current Project**: I'm working on a [City of Virginia Beach EMS Public Data Analysis](https://github.com/nicolalenee/ems_cvb). I work in public service and constantly have my hand full of cleaning messy public data. I'm currently strengthening my data cleaning and timestamp work using R. 
 
 **Currently revisiting**: Statistics. Each day I find myself and my colleagues in need of better predictive statistics to guide decision-making and improve Business Intelligence efforts.
 
-**Ask me about**: Scripting code and cleaning, automating data workflows, statistical application (keep it simple). 
+**Ask me about**: Scripting code and cleaning, automating data workflows, statistical application (keep it simple). Also R, Python, Power BI/DAX, and SQL. 
 
-**Fun Fact**: 저는 한국어도 잘 얘기할 수 있어요! 가끔...조금만...
+**Fun Fact**:  저는 한국어로도 잘 얘기할 수 있어요! 저한테는 한국어로도 말씀해 주세요. 💫
 
-**How to reach me**: [LinkedIn](https://linkedin.com/i/nicolamarble
+**How to reach me**: [LinkedIn](https://linkedin.com/i/nicolamarble)
 
 <!---
 nicolalenee/nicolalenee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
