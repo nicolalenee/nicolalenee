@@ -12,7 +12,7 @@ Hi! My name's Nicola and I'm a data analyst. I also have a web development backg
 
 **Ask me about**: Scripting for cleaning and transformation steps, automating data workflows, data architecture and statistical application (keep it simple). Also R, Python, Power BI/DAX, and SQL. 
 
-**Fun Fact**:  저는 한국어로도 잘 얘기할 수 있어요! 저한테는 한국어로도 말씀해 주세요. 💫
+**Fun Fact**:  저는 한국어로도 잘 얘기할 수 있어요! 저에게도 한국어로 말씀해 주세요. 💫
 
 **How to reach me**: [LinkedIn](https://linkedin.com/in/nicolamarble) | Message me for email. 
 
