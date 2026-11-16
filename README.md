@@ -14,7 +14,7 @@ Hi! My name's Nicola and I'm a data analyst. I also have a web development backg
 
 **Fun Fact**:  저는 한국어로도 잘 얘기할 수 있어요! 저에게도 한국어로 말씀해 주세요. 💫
 
-**How to reach me**: [LinkedIn](https://linkedin.com/in/nicolamarble) | Message me for email. 
+**How to reach me**: [LinkedIn](https://linkedin.com/in/nicolamarble) | Open an issue or start a discussion for email. 
 
 <!---
 nicolalenee/nicolalenee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
