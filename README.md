@@ -2,7 +2,7 @@
 ![github](https://user-images.githubusercontent.com/86696492/205133081-cb5c8cb4-4922-4ce4-9e6a-9ca3e1c499ad.png)
 ](url)
 
-Hi! My name's Nicola and I'm a data analyst. I also have a web development background and often find myself merging these two strengths together in my work. Beyond that I like to piddle around. While I don't often create web development projects, feel free to explore the projects of my past. Don't forget to blow off some dust. If something doesn't work, like a deployment not spinning up properly, don't hesitate to drop me a line.
+Hi! My name's Nicola and I'm a data analyst. I also have a web development background and often find myself merging these two strengths together in my work. Beyond that I like to piddle around. While I don't often create web development projects, feel free to explore the projects of my past. You may need to blow the dust off some of these. If something doesn't work, like a deployment not spinning up properly, don't hesitate to drop me a line.
 
 ## Quick Glimpse 
 
